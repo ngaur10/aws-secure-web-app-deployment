@@ -172,9 +172,6 @@ AWS Cloud Architecture, Cloud Security, Network Segmentation, VPC Design, EC2 Ad
 This project delivered a secure, highly available, three-tier web application on AWS, built around network segmentation, least-privilege access, encryption at rest, and continuous monitoring. Working through VPC design, security group scoping, IAM permissions, Auto Scaling, and credential management provided hands-on experience with the core practices of cloud security engineering, producing an architecture that reflects real-world production patterns rather than a simplified lab exercise.
 
 ## Author
+Naman Gaur
+https://www.linkedin.com/in/naman-gaur-21322b294/
 
-*Add your name and links (LinkedIn, portfolio, email) here.*
-
-## License
-
-This project is for educational/portfolio purposes.
