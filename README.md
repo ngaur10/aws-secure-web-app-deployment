@@ -8,12 +8,7 @@ This project applies cloud security best practices by isolating resources across
 
 The environment includes a custom VPC with public and private subnets, a Bastion Host for controlled administrative access, an internet-facing Application Load Balancer protected by AWS WAF, an Auto Scaling Group of Windows/IIS web servers built from a custom AMI, a Multi-AZ Amazon RDS for MySQL database, IAM least-privilege roles, AWS Secrets Manager for credential storage, and a full observability stack using CloudWatch, SNS, CloudTrail, and S3.
 
-## Architecture
 
-```
-<img width="3472" height="3182" alt="dia" src="https://github.com/user-attachments/assets/2163d13e-88ea-48f1-a593-0831ce768c74" />
-
-```
 
 ## Objectives
 
